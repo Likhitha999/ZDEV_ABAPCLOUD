@@ -1,0 +1,14 @@
+{
+  "name": "zldemo",
+  "version": "1.0.0",
+  "description": "ZLDEMO",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/8A0BEA50690D1EDFB7F9B225A04DF39A_0"
+  }
+}
