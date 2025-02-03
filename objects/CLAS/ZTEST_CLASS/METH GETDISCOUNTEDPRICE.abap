@@ -2,6 +2,6 @@
 
     DATA disc TYPE i.
 
-    disc = 50.
+    disc = 40.
 
   ENDMETHOD.
